@@ -1,4 +1,6 @@
-# Data Scientist
+# Senior Data Scientist
+
+#### Mission Statement: I am deeply passionate in researching & applying state-of-the-art AI/ML technologies for the benefit of all mankind.
 
 #### Technical Skills: ML, Python, C++, SQL, GCP
 
@@ -7,13 +9,14 @@
 - Dual B.S., Physics | Tomsk Polytechnic University & Jilin University (_2007_)
 
 ## Industry Experience
-**Senior Data Scientist @ Walmart Global Tech (_2022 - Present_)**
+**Senior Data Scientist / Tech Lead @ Walmart Global Tech (_2022 - Present_)**
 - tech lead
 - OD, GenAI, business impact
 
 **Consultant @ Alliance PKU Management Consultants Ltd. (_2010 - 2012_)**
-- performed high-impact and satisfied management consulting services to Fortune 500 clients including Southeast Asia Crude Oil Pipeline Co. Ltd, GD Power Development Co. Ltd, Erdos Electric Power Bureau, which led to extra contracts
-- performed solid business analysis; effectively communicated to senior executives; punctual & high-quality outcome delivery; created an automated document processing system which greatly improved efficiency
+- delivered high-impact consulting services to Fortune 500 clients including _Southeast Asia Crude Oil Pipeline Co. Ltd_, _GD Power Development Co. Ltd_, _Erdos Electric Power Bureau_, which led to extra contracts
+- performed solid data & business analyses, & effectively communicated to senior executives
+- created an automated document processing system which improved efficiency by 80%
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
