@@ -1,11 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, C++, SQL, GCP
 
 ## Education
 - Ph.D., Physics | Wayne State University (_August 2019_)								       		
 - M.S., Physics	| Wayne State Universitys (_December 2016_)	 			        		
-- B.S., Physics | Tomsk Polytechnic University (_June 2007_)
+- Dual B.S., Physics | Tomsk Polytechnic University & Jilin University (_June 2007_)
 
 ## Work Experience
 **Senior Data Scientist @ Walmart Global Tech (_October 2022 - Present_)**
