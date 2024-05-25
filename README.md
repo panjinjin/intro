@@ -4,7 +4,7 @@
 I am deeply passionate in researching & applying state-of-the-art AI/ML technologies for the benefit of all mankind.
 
 ## Education
-- Ph.D. & M.S, High Energy Physics | Wayne State University (_2019_)
+- Ph.D. & M.S, Physics | Wayne State University (_2019_)
 - Dual B.S., Physics | Tomsk Polytechnic University & Jilin University (_2007_)
 
 ## Industry Experience
