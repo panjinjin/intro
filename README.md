@@ -3,18 +3,17 @@
 #### Technical Skills: ML, Python, C++, SQL, GCP
 
 ## Education
-- Ph.D., Physics | Wayne State University (_August 2019_)								       		
-- M.S., Physics	| Wayne State Universitys (_December 2016_)	 			        		
-- Dual B.S., Physics | Tomsk Polytechnic University & Jilin University (_June 2007_)
+- Ph.D. & M.S, High Energy Physics | Wayne State University (_2019_)
+- Dual B.S., Physics | Tomsk Polytechnic University & Jilin University (_2007_)
 
-## Work Experience
-**Senior Data Scientist @ Walmart Global Tech (_October 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Industry Experience
+**Senior Data Scientist @ Walmart Global Tech (_2022 - Present_)**
+- tech lead
+- OD, GenAI, business impact
 
-**Consultant @ AllPKU Consulting (_December 2010 - April 2012_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Consultant @ Alliance PKU Management Consultants Ltd. (_2010 - 2012_)**
+- performed high-impact and satisfied management consulting services to Fortune 500 clients including Southeast Asia Crude Oil Pipeline Co. Ltd, GD Power Development Co. Ltd, Erdos Electric Power Bureau, which led to extra contracts
+- performed solid business analysis; effectively communicated to senior executives; punctual & high-quality outcome delivery; created an automated document processing system which greatly improved efficiency
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
