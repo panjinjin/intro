@@ -1,8 +1,7 @@
 # Senior Data Scientist
 
-#### Mission Statement: I am deeply passionate in researching & applying state-of-the-art AI/ML technologies for the benefit of all mankind.
-
-#### Technical Skills: ML, Python, C++, SQL, GCP
+## Mission Statement
+I am deeply passionate in researching & applying state-of-the-art AI/ML technologies for the benefit of all mankind.
 
 ## Education
 - Ph.D. & M.S, High Energy Physics | Wayne State University (_2019_)
@@ -15,8 +14,11 @@
 
 **Consultant @ Alliance PKU Management Consultants Ltd. (_2010 - 2012_)**
 - delivered high-impact consulting services to Fortune 500 clients including _Southeast Asia Crude Oil Pipeline Co. Ltd_, _GD Power Development Co. Ltd_, _Erdos Electric Power Bureau_, which led to extra contracts
-- performed solid data & business analyses, & effectively communicated to senior executives
 - created an automated document processing system which improved efficiency by 80%
+
+
+#### Technical Skills: ML, Python, C++, SQL, GCP
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
