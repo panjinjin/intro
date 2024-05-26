@@ -46,8 +46,11 @@
 4. ALICE Collaboration (Pan, J. as co-principal author). Longitudinal and azimuthal evolution of two-particle transverse momentum correlations in Pb-Pb collisions at √sNN = 2.76 TeV. [Phys. Lett. B 804 (2020) 135375](https://www.sciencedirect.com/science/article/pii/S0370269320301799?via%3Dihub)
 5. Pan, J. Balance functions of charged hadron pairs (π,K,p)×(π,K,p) in Pb-Pb collisions at √sNN = 2.76 TeV. [arXiv:1911.02234](https://arxiv.org/abs/1911.02234)
 6. Pan, J. on behalf of the ALICE Collaboration. Balance functions of (un)identified hadrons in Pb-Pb, p-Pb, and pp collisions at the LHC. [Nucl. Phys. A 982 (2019) 315–318](https://www.sciencedirect.com/science/article/pii/S0375947418302100?via%3Dihub)
+7. Gonzalez, V., Marin, A., De Guevara, P,. Pan, J., Basu, S., Pruneau, C,. Correcting differential correlation functions for collision centrality bin width effects. [Phys. Rev. C 99, 034907 (2019)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.034907)
+8. Pan, J. for the ALICE Collaboration. Multiplicity and transverse momentum evolution of charge-dependent correlations in pp, p-Pb, and Pb-Pb collisions at the LHC. [J. Phys.: Conf. Ser. 832 (2017) 012044](https://iopscience.iop.org/article/10.1088/1742-6596/832/1/012044)
 
-## Projects
+
+## PROJECTS
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
@@ -61,5 +64,4 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
-7. Gonzalez, V., Marin, A., De Guevara, P,. Pan, J., Basu, S., Pruneau, C,. Correcting differential correlation functions for collision centrality bin width effects. [Phys. Rev. C 99, 034907 (2019)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.034907)
-8. Pan, J. for the ALICE Collaboration. Multiplicity and transverse momentum evolution of charge-dependent correlations in pp, p-Pb, and Pb-Pb collisions at the LHC. [J. Phys.: Conf. Ser. 832 (2017) 012044](https://iopscience.iop.org/article/10.1088/1742-6596/832/1/012044)
+
