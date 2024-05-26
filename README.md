@@ -40,14 +40,14 @@
 
 
 ## PUBLICATIONS (selected)
-1. ALICE Collaboration (Pan, J. as principal author), General balance functions of identified charged hadron pairs of (π,K,p) in Pb−Pb collisions at √sNN = 2.76 TeV. [Phys. Lett. B 833 (2022) 137338](https://www.sciencedirect.com/science/article/pii/S0370269322004725?via%3Dihub)
-2. Basu, S., Gonzalez, V., Pan, J., et al, Differential two-particle number and momentum correlations with the AMPT, UrQMD, and EPOS models in Pb-Pb collisions at √sNN = 2.76 TeV. [Phys. Rev. C 104, 064902 (2021)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.064902)
-3. Gonzalez, V., Basu, S., Marin, A., Pan, J., de Guevara, P,. Pruneau, C,. Extraction of the specific shear viscosity of quark-gluon plasma from two-particle transverse momentum correlations. [Eur. Phys. J. C 81, 465 (2021)](https://link.springer.com/article/10.1140/epjc/s10052-021-09260-z)
-4. ALICE Collaboration (Pan, J. as co-principal author). Longitudinal and azimuthal evolution of two-particle transverse momentum correlations in Pb-Pb collisions at √sNN = 2.76 TeV. [Phys. Lett. B 804 (2020) 135375](https://www.sciencedirect.com/science/article/pii/S0370269320301799?via%3Dihub)
-5. Pan, J. Balance functions of charged hadron pairs (π,K,p)×(π,K,p) in Pb-Pb collisions at √sNN = 2.76 TeV. [arXiv:1911.02234](https://arxiv.org/abs/1911.02234)
-6. Pan, J. on behalf of the ALICE Collaboration. Balance functions of (un)identified hadrons in Pb-Pb, p-Pb, and pp collisions at the LHC. [Nucl. Phys. A 982 (2019) 315–318](https://www.sciencedirect.com/science/article/pii/S0375947418302100?via%3Dihub)
-7. Gonzalez, V., Marin, A., De Guevara, P,. Pan, J., Basu, S., Pruneau, C,. Correcting differential correlation functions for collision centrality bin width effects. [Phys. Rev. C 99, 034907 (2019)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.034907)
-8. Pan, J. for the ALICE Collaboration. Multiplicity and transverse momentum evolution of charge-dependent correlations in pp, p-Pb, and Pb-Pb collisions at the LHC. [J. Phys.: Conf. Ser. 832 (2017) 012044](https://iopscience.iop.org/article/10.1088/1742-6596/832/1/012044)
+1. ALICE Collaboration (**Pan, J.** as principal author), General balance functions of identified charged hadron pairs of (π,K,p) in Pb−Pb collisions at √sNN = 2.76 TeV. [Phys. Lett. B 833 (2022) 137338](https://www.sciencedirect.com/science/article/pii/S0370269322004725?via%3Dihub)
+2. Basu, S., Gonzalez, V., **Pan, J.**, et al, Differential two-particle number and momentum correlations with the AMPT, UrQMD, and EPOS models in Pb-Pb collisions at √sNN = 2.76 TeV. [Phys. Rev. C 104, 064902 (2021)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.064902)
+3. Gonzalez, V., Basu, S., Marin, A., **Pan, J.**, de Guevara, P,. Pruneau, C,. Extraction of the specific shear viscosity of quark-gluon plasma from two-particle transverse momentum correlations. [Eur. Phys. J. C 81, 465 (2021)](https://link.springer.com/article/10.1140/epjc/s10052-021-09260-z)
+4. ALICE Collaboration (**Pan, J.** as co-principal author). Longitudinal and azimuthal evolution of two-particle transverse momentum correlations in Pb-Pb collisions at √sNN = 2.76 TeV. [Phys. Lett. B 804 (2020) 135375](https://www.sciencedirect.com/science/article/pii/S0370269320301799?via%3Dihub)
+5. **Pan, J.** Balance functions of charged hadron pairs (π,K,p)×(π,K,p) in Pb-Pb collisions at √sNN = 2.76 TeV. [arXiv:1911.02234](https://arxiv.org/abs/1911.02234)
+6. **Pan, J.** on behalf of the ALICE Collaboration. Balance functions of (un)identified hadrons in Pb-Pb, p-Pb, and pp collisions at the LHC. [Nucl. Phys. A 982 (2019) 315–318](https://www.sciencedirect.com/science/article/pii/S0375947418302100?via%3Dihub)
+7. Gonzalez, V., Marin, A., De Guevara, P,. **Pan, J.**, Basu, S., Pruneau, C,. Correcting differential correlation functions for collision centrality bin width effects. [Phys. Rev. C 99, 034907 (2019)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.034907)
+8. **Pan, J.** for the ALICE Collaboration. Multiplicity and transverse momentum evolution of charge-dependent correlations in pp, p-Pb, and Pb-Pb collisions at the LHC. [J. Phys.: Conf. Ser. 832 (2017) 012044](https://iopscience.iop.org/article/10.1088/1742-6596/832/1/012044)
 
 
 ## PROJECTS
