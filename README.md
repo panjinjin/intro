@@ -1,11 +1,11 @@
 # Senior Data Scientist
 
 ## Mission Statement
-I am deeply passionate in researching & applying state-of-the-art AI/ML technologies for the benefit of all mankind.
+- I am deeply passionate in researching & applying state-of-the-art AI/ML technologies for the benefit of all mankind.
 
 ## Education
-- Ph.D. & M.S, Physics | Wayne State University (_2019_)
-- Dual B.S., Physics | Tomsk Polytechnic University & Jilin University (_2007_)
+- Ph.D. & M.S, Physics | Wayne State University
+- Dual B.S., Physics | Tomsk Polytechnic University & Jilin University
 
 ## Industry Experience
 **Senior Data Scientist / Tech Lead @ Walmart Global Tech (_2022 - Present_)**
