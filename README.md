@@ -1,6 +1,6 @@
 # AI/ML Scientist, Physicist (CERN)
 
-## Mission Statement
+## Mission
 - I am deeply passionate in researching & applying state-of-the-art AI/ML technologies for the benefit of all mankind.
 
 ## Education
@@ -39,11 +39,15 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Balance function as a unique probe of the quark gluon plasma: experimental overview & outlook - [WPCF 2022](https://indico.frib.msu.edu/event/50/), [slides](https://indico.frib.msu.edu/event/50/contributions/1195/), 2022
 - Recent experimental progresses in balance function measurements from ALICE & STAR experiments - Balance Function Seminar, Michigan State University, 2021
 - Balance function as a unique probe of the quark gluon plasma: experimental overview and outlook - [Nuclear Physics Seminar at Brookhaven National Laboratory](https://indico.bnl.gov/category/174/), [slides](https://indico.bnl.gov/event/7136/), 2020
+- The First General Balance Function Measurement of Full Species Matrix of π, K and p - Heavy Ion Physics Seminar, Lawrence Berkeley National Laboratory, 2019
+- Alice and the Soup of Quarks and Gluons - [PostDoc Science Café at Harvard University](https://postdoc.fas.harvard.edu/event/10th-postdoc-science-cafe-2018?delta=0), 2018
 
+## Conference Talks (selected)
+- General Balance Functions of charged π, K and p in Pb-Pb Collisions at the LHC - [DPF 2019](https://indico.cern.ch/event/782953/), [slides](https://indico.cern.ch/event/782953/contributions/3461183/), 2019
+- Balance functions of identified hadrons in Pb-Pb, p-Pb and pp collisions from ALICE - [Quark Matter 2018](https://indico.cern.ch/event/656452/), [slides](https://indico.cern.ch/event/656452/contributions/2869863/), [proceeding](https://www.sciencedirect.com/science/article/pii/S0375947418302100?via%3Dihub), 2018
+- Multiplicity Evolution of PID Balance Functions in Pb-Pb, p-Pb and pp Collisions with ALICE, [2017 US LHC Users Association Meeting](https://indico.fnal.gov/event/15068/), Fermi National Lab, [slides](https://indico.fnal.gov/event/15068/contributions/28978/), 2017
+- Measurements of Balance Functions with PID at ALICE, [Hot Quarks 2016](https://indico.cern.ch/event/507867/), [slides](https://indico.cern.ch/event/507867/contributions/2218129/), 2016
 
-
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
