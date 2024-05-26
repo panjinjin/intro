@@ -1,4 +1,4 @@
-# AI/ML Scientist, Physicist (CERN)
+# AI/ML Scientist, Physicist (ex-CERN)
 
 ## Mission
 - I am deeply passionate in researching & applying state-of-the-art AI/ML technologies for the benefit of all mankind.
@@ -12,9 +12,12 @@
 - tech lead
 - OD, GenAI, business impact
 
-**Consultant @ Alliance PKU Management Consultants Ltd. (_2010 - 2012_)**
+**Consultant @ Alliance PKU Management Consultants Ltd (_2010 - 2012_)**
 - delivered high-impact consulting services to Fortune 500 clients including _Southeast Asia Crude Oil Pipeline Co. Ltd_, _GD Power Development Co. Ltd_, _Erdos Electric Power Bureau_, which led to extra contracts
 - created an automated document processing system which improved efficiency by 80%
+
+**Co-founder @ Rixin Educational Training School (_2009 - 2010_)**
+- led a 20 staff & teacher team; achieved high growth & profitability
 
 
 #### Technical Skills: ML, Python, C++, SQL, GCP
@@ -45,7 +48,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ## Conference Talks (selected)
 - General Balance Functions of charged π, K and p in Pb-Pb Collisions at the LHC - [DPF 2019](https://indico.cern.ch/event/782953/), [slides](https://indico.cern.ch/event/782953/contributions/3461183/)
 - Balance functions of identified hadrons in Pb-Pb, p-Pb and pp collisions from ALICE - [Quark Matter 2018](https://indico.cern.ch/event/656452/), [slides](https://indico.cern.ch/event/656452/contributions/2869863/), [proceeding](https://www.sciencedirect.com/science/article/pii/S0375947418302100?via%3Dihub)
-- Multiplicity Evolution of PID Balance Functions in Pb-Pb, p-Pb and pp Collisions with ALICE, [2017 US LHC Users Association Meeting](https://indico.fnal.gov/event/15068/), Fermi National Lab, [slides](https://indico.fnal.gov/event/15068/contributions/28978/)
+- Multiplicity Evolution of PID Balance Functions in Pb-Pb, p-Pb and pp Collisions with ALICE, [2017 US LHC Users Association Meeting](https://indico.fnal.gov/event/15068/), Fermi National Accelerator Laboratory, [slides](https://indico.fnal.gov/event/15068/contributions/28978/)
 - Measurements of Balance Functions with PID at ALICE, [Hot Quarks 2016](https://indico.cern.ch/event/507867/), [slides](https://indico.cern.ch/event/507867/contributions/2218129/), [proceeding](https://iopscience.iop.org/article/10.1088/1742-6596/832/1/012044)
 
 
