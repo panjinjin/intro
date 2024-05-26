@@ -36,7 +36,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Invited Talks (selected)
-- Balance function as a unique probe of the quark gluon plasma: experimental overview & outlook - [WPCF 2022](https://indico.frib.msu.edu/event/50/), [slides](https://indico.frib.msu.edu/event/50/contributions/1195/) [Facility for Rare Isotope Beams](https://frib.msu.edu/), 2022
+- Balance function as a unique probe of the quark gluon plasma: experimental overview & outlook - [WPCF 2022](https://indico.frib.msu.edu/event/50/), [slides](https://indico.frib.msu.edu/event/50/contributions/1195/), 2022
 - Recent experimental progresses in balance function measurements from ALICE & STAR experiments - Balance Function Seminar, Michigan State University, 2021
 - Balance function as a unique probe of the quark gluon plasma: experimental overview and outlook - [Nuclear Physics Seminar](https://indico.bnl.gov/category/174/), Brookhaven National Laboratory, [slides](https://indico.bnl.gov/event/7136/), 2020
 
