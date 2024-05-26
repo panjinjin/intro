@@ -35,22 +35,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-Invited Talks (selected):
-●	Balance function as a unique probe of the quark gluon plasma: experimental overview and outlook, WPCF 2022 – 15th Workshop on Particle Correlations and Femtoscopy, Facility for Rare Isotope Beams, East Lansing, MI. slides          Jul 2022
-●	Recent experimental progresses in balance function measurements from ALICE and STAR experiments, Balance Function Seminar, Michigan State University, East Lansing, MI.                                                                                                          Aug 2021
-●	Balance function as a unique probe of the quark gluon plasma: experimental overview and outlook, Nuclear Physics Seminar, Brookhaven National Laboratory, Upton, NY. slides                                                                                                             Feb 2020
-●	The First General Balance Function Measurement of Full Species Matrix of π, K and p, Heavy Ion Physics Seminar, 
-Lawrence Berkeley National Laboratory, Berkeley, CA. 						             May 2019
-●	Alice and the Soup of Quarks and Gluons, PostDoc Science Café, Harvard University, Cambridge, MA. post            Oct 2018
-![image](https://github.com/panjinjin/intro/assets/26655769/4c9969c5-c1b8-46ee-8120-34e45adba9ba)
+## Invited Talks (selected)
+- Balance function as a unique probe of the quark gluon plasma: experimental overview & outlook - WPCF 2022, [slides]([https://indico.frib.msu.edu/event/50/contributions/1195/]) East Lansing, MI, Jul 2022
 
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
