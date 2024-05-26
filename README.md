@@ -36,7 +36,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Invited Talks (selected)
-- Balance function as a unique probe of the quark gluon plasma: experimental overview & outlook - WPCF 2022, [slides]([https://indico.frib.msu.edu/event/50/contributions/1195/]) East Lansing, MI, Jul 2022
+- Balance function as a unique probe of the quark gluon plasma: experimental overview & outlook - [WPCF 2022](https://indico.frib.msu.edu/event/50/), [slides](https://indico.frib.msu.edu/event/50/contributions/1195/) East Lansing, MI, Jul 2022
 
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
