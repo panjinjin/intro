@@ -4,8 +4,8 @@
 - I am deeply passionate in researching & applying state-of-the-art AI/ML technologies for the benefit of all mankind.
 
 ## EDUCATION
-- Ph.D. & M.S, Physics | Wayne State University
-- Dual B.S., Physics | Tomsk Polytechnic University & Jilin University
+- Ph.D. & M.S, Physics | Wayne State University 2019
+- Dual B.S., Physics | Tomsk Polytechnic University & Jilin University 2007
 
 ## INDUSTRY EXPERIENCE
 **Senior Data Scientist / Tech Lead @ Walmart Global Tech (_2022 - Present_)**
